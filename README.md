@@ -2,7 +2,7 @@
 
 An interactive, single-page **Power BI dashboard** that analyses sales and customer-rating performance for **Blinkit** (India's last-minute delivery app) across outlets, locations, item types and fat-content categories.
 
-> 📁 **File:** `BLINKIT_DASHBOARD.pbix`
+> 📁 **File:** 
 
 ---
 
