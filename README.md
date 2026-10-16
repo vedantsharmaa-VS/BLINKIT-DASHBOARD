@@ -86,13 +86,10 @@ This dashboard turns the *BlinkIT Grocery Data* dataset into a clean, filterable
 
 ## 🚀 How to Use
 
-1. **Clone** or download this repository:
-   ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
-   ```
-2. Install [**Power BI Desktop**](https://powerbi.microsoft.com/desktop/) (free, Windows).
-3. Open `BLINKIT_DASHBOARD.pbix` https://github.com/vedantsharmaa-VS/BLINKIT-DASHBOARD/blob/main/BLINKIT%20DASHBOARD.pbix.)
-4. Use the **Filter Panel** on the left and click on any chart element to explore the data.
+  
+1. Install [**Power BI Desktop**](https://powerbi.microsoft.com/desktop/) (free, Windows).
+2. Open `BLINKIT_DASHBOARD.pbix` https://github.com/vedantsharmaa-VS/BLINKIT-DASHBOARD/blob/main/BLINKIT%20DASHBOARD.pbix.)
+3. Use the **Filter Panel** on the left and click on any chart element to explore the data.
 
 ---
 
@@ -110,16 +107,6 @@ This dashboard turns the *BlinkIT Grocery Data* dataset into a clean, filterable
 - Which outlet size contributes the most revenue?
 - Which city tier performs best?
 - Which item types receive the highest ratings?
-
----
-
-## 📂 Repository Structure
-
-```
-├── BLINKIT_DASHBOARD.pbix   # Power BI report
-├── images/                  # Dashboard screenshots
-└── README.md
-```
 
 ---
 
