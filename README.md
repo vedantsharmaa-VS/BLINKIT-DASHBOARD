@@ -125,7 +125,7 @@ This dashboard turns the *BlinkIT Grocery Data* dataset into a clean, filterable
 
 ## 🙋 Author
 
-**Your Name**
+VEDANT SHARMA
 [LinkedIn]https://www.linkedin.com/in/vedant-sharma-491847410/] · [GitHub](https://github.com/vedantsharmaa-VS)
 
 ---
