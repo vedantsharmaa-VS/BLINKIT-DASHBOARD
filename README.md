@@ -2,7 +2,7 @@
 
 An interactive, single-page **Power BI dashboard** that analyses sales and customer-rating performance for **Blinkit** (India's last-minute delivery app) across outlets, locations, item types and fat-content categories.
 
-> 📁 **File:** 
+> 📁 **File:** https://github.com/vedantsharmaa-VS/BLINKIT-DASHBOARD/blob/main/BLINKIT%20DASHBOARD.pbix
 
 ---
 
@@ -91,7 +91,7 @@ This dashboard turns the *BlinkIT Grocery Data* dataset into a clean, filterable
    git clone https://github.com/<your-username>/<your-repo-name>.git
    ```
 2. Install [**Power BI Desktop**](https://powerbi.microsoft.com/desktop/) (free, Windows).
-3. Open `BLINKIT_DASHBOARD.pbix`.
+3. Open `BLINKIT_DASHBOARD.pbix` https://github.com/vedantsharmaa-VS/BLINKIT-DASHBOARD/blob/main/BLINKIT%20DASHBOARD.pbix.)
 4. Use the **Filter Panel** on the left and click on any chart element to explore the data.
 
 ---
